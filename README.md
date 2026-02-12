@@ -3,14 +3,14 @@
 
 ## Dataset
 
--Netflix Movies and TV Shows
+- Netflix Movies and TV Shows
 
 ## Tools Used
 
--Google Colab
--Python,Pandas
+- Google Colab
+- Python,Pandas
 
-## Cleaning Steps Performed
+## Cleaning Steps
 
 - Dropped duplicate rows
 - Standardized column names
